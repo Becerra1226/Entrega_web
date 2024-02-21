@@ -1,0 +1,45 @@
+.Informacion {
+    text-align: center;
+}
+
+.Hobbies{
+    text-align: center;
+}
+
+body{
+    background: rgb(210, 242, 252);
+}
+
+h1{
+    color: red;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    border: 5px solid black;
+
+    width: 10%;
+    height: 10%;
+
+    border-radius: 50px;
+}
+
+
+
+video{
+
+    width: 15%;
+    height: 15%;
+}
+
+
+th, td{
+border: 2px solid black;
+
+}
+table{
+    border-collapse: collapse;
+}
